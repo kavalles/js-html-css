@@ -1,0 +1,16 @@
+h1
+{
+	font-family: Verdana, Geneva, sans-serif;
+	background-color: #EE82EE;
+}
+h3
+{
+	font-family: Verdana, Geneva, sans-serif;
+	text-decoration: underline; 
+}
+
+ul.list
+{
+	font-family: Verdana, Geneva, sans-serif;
+	list-style-type: circle; 
+}

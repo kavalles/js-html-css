@@ -1,0 +1,25 @@
+
+button
+{
+	border-radius: 5px;
+	padding: 10px;
+	color: white;
+	border: 3px solid #000000;
+	background-color:#68d64c;
+	
+}
+
+div
+{
+	text-align: center;
+	padding:40px;
+	background-color:#95d2d6;
+}
+
+#greetingMessage
+{
+	display:flex;
+	justify-content:center;
+	font-family: Verdana,Geneva,sans-serif; 
+	font-style: italic;
+}

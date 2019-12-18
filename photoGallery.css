@@ -1,0 +1,25 @@
+.column {
+  float: left;
+  width: 13.34%;
+  padding: 5px;
+}
+
+.row
+{
+	text-align-last:center;
+}
+
+#buttons
+{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+button
+{
+	background-color:#e3a5da;
+	padding:10px;
+	font-family: Georgia,Times,Times New Roman,serif; 
+}
+
+
